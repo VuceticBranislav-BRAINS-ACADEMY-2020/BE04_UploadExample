@@ -1,0 +1,120 @@
+2021-06-19 17:07:46.770  INFO 10528 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Starting UploadExampleExampleApplication using Java 1.8.0_271 on GM-PC2 with PID 10528 (F:\_JAVA_SPRING_Projects\04_UploadExample\target\classes started by GM in F:\_JAVA_SPRING_Projects\04_UploadExample)
+2021-06-19 17:07:46.772  INFO 10528 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : No active profile set, falling back to default profiles: default
+2021-06-19 17:07:46.803  INFO 10528 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-19 17:07:46.803  INFO 10528 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-19 17:07:47.466  INFO 10528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2021-06-19 17:07:47.474  INFO 10528 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-19 17:07:47.475  INFO 10528 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-19 17:07:47.527  INFO 10528 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-19 17:07:47.527  INFO 10528 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 723 ms
+2021-06-19 17:07:47.659 DEBUG 10528 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-19 17:07:47.712 DEBUG 10528 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 5 mappings in 'requestMappingHandlerMapping'
+2021-06-19 17:07:47.728 DEBUG 10528 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-19 17:07:47.733 DEBUG 10528 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-19 17:07:47.791  INFO 10528 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-19 17:07:47.814  INFO 10528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2021-06-19 17:07:47.821  INFO 10528 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Started UploadExampleExampleApplication in 1.374 seconds (JVM running for 1.898)
+2021-06-19 17:07:47.821  INFO 10528 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-19 17:07:47.823  INFO 10528 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-19 17:08:20.331  INFO 10528 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-19 17:08:20.331  INFO 10528 --- [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-06-19 17:10:54.617  INFO 5456 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Starting UploadExampleExampleApplication using Java 1.8.0_271 on GM-PC2 with PID 5456 (F:\_JAVA_SPRING_Projects\04_UploadExample\target\classes started by GM in F:\_JAVA_SPRING_Projects\04_UploadExample)
+2021-06-19 17:10:54.619  INFO 5456 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : No active profile set, falling back to default profiles: default
+2021-06-19 17:10:54.650  INFO 5456 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-19 17:10:54.651  INFO 5456 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-19 17:10:55.198  INFO 5456 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2021-06-19 17:10:55.205  INFO 5456 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-19 17:10:55.205  INFO 5456 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-19 17:10:55.249  INFO 5456 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-19 17:10:55.249  INFO 5456 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 598 ms
+2021-06-19 17:10:55.369 DEBUG 5456 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-19 17:10:55.416 DEBUG 5456 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 5 mappings in 'requestMappingHandlerMapping'
+2021-06-19 17:10:55.432 DEBUG 5456 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-19 17:10:55.438 DEBUG 5456 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-19 17:10:55.494  INFO 5456 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-19 17:10:55.515  INFO 5456 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2021-06-19 17:10:55.521  INFO 5456 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Started UploadExampleExampleApplication in 1.173 seconds (JVM running for 1.636)
+2021-06-19 17:10:55.522  INFO 5456 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-19 17:10:55.523  INFO 5456 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-19 17:11:08.777  INFO 5456 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-19 17:11:08.777  INFO 5456 --- [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-06-19 17:11:12.363  INFO 11740 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Starting UploadExampleExampleApplication using Java 1.8.0_271 on GM-PC2 with PID 11740 (F:\_JAVA_SPRING_Projects\04_UploadExample\target\classes started by GM in F:\_JAVA_SPRING_Projects\04_UploadExample)
+2021-06-19 17:11:12.365  INFO 11740 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : No active profile set, falling back to default profiles: default
+2021-06-19 17:11:12.393  INFO 11740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-19 17:11:12.393  INFO 11740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-19 17:11:12.943  INFO 11740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2021-06-19 17:11:12.951  INFO 11740 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-19 17:11:12.951  INFO 11740 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-19 17:11:12.995  INFO 11740 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-19 17:11:12.995  INFO 11740 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 601 ms
+2021-06-19 17:11:13.114 DEBUG 11740 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-19 17:11:13.162 DEBUG 11740 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 5 mappings in 'requestMappingHandlerMapping'
+2021-06-19 17:11:13.179 DEBUG 11740 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-19 17:11:13.185 DEBUG 11740 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-19 17:11:13.245  INFO 11740 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-19 17:11:13.268  INFO 11740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2021-06-19 17:11:13.275  INFO 11740 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Started UploadExampleExampleApplication in 1.177 seconds (JVM running for 1.641)
+2021-06-19 17:11:13.276  INFO 11740 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-19 17:11:13.277  INFO 11740 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-19 17:12:38.361  INFO 11740 --- [RMI TCP Connection(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-19 17:12:38.361  INFO 11740 --- [RMI TCP Connection(12)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-06-19 17:12:43.226  INFO 9768 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Starting UploadExampleExampleApplication using Java 1.8.0_271 on GM-PC2 with PID 9768 (F:\_JAVA_SPRING_Projects\04_UploadExample\target\classes started by GM in F:\_JAVA_SPRING_Projects\04_UploadExample)
+2021-06-19 17:12:43.232  INFO 9768 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : No active profile set, falling back to default profiles: default
+2021-06-19 17:12:43.259  INFO 9768 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-19 17:12:43.260  INFO 9768 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-19 17:12:43.812  INFO 9768 --- [restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8090 (http)
+2021-06-19 17:12:43.828  INFO 9768 --- [restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2021-06-19 17:12:43.828  INFO 9768 --- [restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-19 17:12:43.876  INFO 9768 --- [restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2021-06-19 17:12:43.876  INFO 9768 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 616 ms
+2021-06-19 17:12:43.997 DEBUG 9768 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-19 17:12:44.074 DEBUG 9768 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 5 mappings in 'requestMappingHandlerMapping'
+2021-06-19 17:12:44.089 DEBUG 9768 --- [restartedMain] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-19 17:12:44.095 DEBUG 9768 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-19 17:12:44.149  INFO 9768 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-19 17:12:44.170  INFO 9768 --- [restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8090 (http) with context path ''
+2021-06-19 17:12:44.176  INFO 9768 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Started UploadExampleExampleApplication in 1.275 seconds (JVM running for 1.904)
+2021-06-19 17:12:44.177  INFO 9768 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-19 17:12:44.178  INFO 9768 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-19 17:13:42.234  INFO 9768 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-19 17:13:42.234  INFO 9768 --- [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-06-19 17:13:47.346  INFO 12412 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Starting UploadExampleExampleApplication using Java 1.8.0_271 on GM-PC2 with PID 12412 (F:\_JAVA_SPRING_Projects\04_UploadExample\target\classes started by GM in F:\_JAVA_SPRING_Projects\04_UploadExample)
+2021-06-19 17:13:47.348  INFO 12412 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : No active profile set, falling back to default profiles: default
+2021-06-19 17:13:47.377  INFO 12412 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-19 17:13:47.377  INFO 12412 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-19 17:13:47.949  INFO 12412 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2021-06-19 17:13:47.956  INFO 12412 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-19 17:13:47.956  INFO 12412 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-19 17:13:47.999  INFO 12412 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-19 17:13:47.999  INFO 12412 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 621 ms
+2021-06-19 17:13:48.121 DEBUG 12412 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-19 17:13:48.168 DEBUG 12412 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 5 mappings in 'requestMappingHandlerMapping'
+2021-06-19 17:13:48.184 DEBUG 12412 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-19 17:13:48.190 DEBUG 12412 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-19 17:13:48.246  INFO 12412 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-19 17:13:48.268  INFO 12412 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2021-06-19 17:13:48.274  INFO 12412 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Started UploadExampleExampleApplication in 1.191 seconds (JVM running for 1.795)
+2021-06-19 17:13:48.275  INFO 12412 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-19 17:13:48.276  INFO 12412 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-19 17:13:54.113  INFO 12412 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-19 17:13:54.113  INFO 12412 --- [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2021-06-19 17:13:59.067  INFO 5580 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Starting UploadExampleExampleApplication using Java 1.8.0_271 on GM-PC2 with PID 5580 (F:\_JAVA_SPRING_Projects\04_UploadExample\target\classes started by GM in F:\_JAVA_SPRING_Projects\04_UploadExample)
+2021-06-19 17:13:59.073  INFO 5580 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : No active profile set, falling back to default profiles: default
+2021-06-19 17:13:59.099  INFO 5580 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-19 17:13:59.099  INFO 5580 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-19 17:13:59.621  INFO 5580 --- [restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8090 (http)
+2021-06-19 17:13:59.633  INFO 5580 --- [restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2021-06-19 17:13:59.633  INFO 5580 --- [restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-19 17:13:59.675  INFO 5580 --- [restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2021-06-19 17:13:59.675  INFO 5580 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 575 ms
+2021-06-19 17:13:59.794 DEBUG 5580 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-19 17:13:59.871 DEBUG 5580 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 5 mappings in 'requestMappingHandlerMapping'
+2021-06-19 17:13:59.886 DEBUG 5580 --- [restartedMain] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-19 17:13:59.891 DEBUG 5580 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-19 17:13:59.945  INFO 5580 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-19 17:13:59.966  INFO 5580 --- [restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8090 (http) with context path ''
+2021-06-19 17:13:59.973  INFO 5580 --- [restartedMain] c.i.U.UploadExampleExampleApplication    : Started UploadExampleExampleApplication in 1.222 seconds (JVM running for 2.021)
+2021-06-19 17:13:59.974  INFO 5580 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-19 17:13:59.975  INFO 5580 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-19 17:14:12.226  INFO 5580 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-19 17:14:12.227  INFO 5580 --- [RMI TCP Connection(8)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
